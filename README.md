@@ -1,2 +1,1 @@
-# sys-terraform-repo
-SYS Terraform Repo For Development
+This repository is for infra developers
